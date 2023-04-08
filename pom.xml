@@ -106,7 +106,7 @@
 	      <name>LV-snap</name>
 	      <url>http://52.90.156.125:8081/Godisgood/repository/LV-snap/</url>
 	    </snapshotRepository>
-	  
+	 
 	 </distributionManagement>
 	
 	<build>
