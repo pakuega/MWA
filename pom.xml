@@ -93,8 +93,8 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
-	  <repositories>
+	<repositories>
+	  
 	    <repository>
 	      <id>52.90.156.125:8081/Godisgood/</id>
 	      <name>LV-release</name>
@@ -106,8 +106,8 @@
 	      <name>LV-snap</name>
 	      <url>http://52.90.156.125:8081/Godisgood/repository/LV-snap/</url>
 	    </repository>
-	   </repositories>
-	</distributionManagement>
+	  
+	 </repositories>
 	
 	<build>
 		<finalName>Louis Vouitton</finalName>
