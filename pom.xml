@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://172.31.20.151:9000/</sonar.host.url>
+		<sonar.host.url>http://52.90.153.252:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -96,15 +96,15 @@
 	<distributionManagement>
 	  
 	    <repository>
-	      <id>172.31.31.45:8081/Godisgood/</id>
+	      <id>52.90.156.125:8081/Godisgood/</id>
 	      <name>LV-release</name>
-	      <url>http://172.31.31.45:8081/Godisgood/repository/LV-release/</url>
+	      <url>http://52.90.156.125:8081/Godisgood/repository/LV-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>52.90.156.125:8081/Godisgood/</id>
 	      <name>LV-snap</name>
-	      <url>http://172.31.31.45:8081/Godisgood/repository/LV-snap/</url>
+	      <url>http://52.90.156.125:8081/Godisgood/repository/LV-snap/</url>
 	    </snapshotRepository>
 	 
 	 </distributionManagement>
