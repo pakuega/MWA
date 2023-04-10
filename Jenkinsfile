@@ -43,11 +43,11 @@ node
  
  stage('EmailNotification')
  {
- mail bcc: 'mylandmarktech@gmail.com', body: '''Build is over
+ mail bcc: 'ptekeu24@gmail.com', body: '''Build is over
 
  Thanks,
  Landmark Technologies,
- +14372152483.''', cc: 'mylandmarktech@gmail.com', from: '', replyTo: '', subject: 'Build is over!!', to: 'mylandmarktech@gmail.com'
+ +14372152483.''', cc: 'ptekeu24@gmail.com', from: '', replyTo: '', subject: 'Build is over!!', to: 'ptekeu24@gmail.com'
  }
  */
  
